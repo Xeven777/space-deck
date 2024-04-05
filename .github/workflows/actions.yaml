@@ -1,4 +1,4 @@
-name: Daily Readme Update
+name: Daily Data Update
 
 on:
   schedule:
