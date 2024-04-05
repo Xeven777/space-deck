@@ -1,7 +1,7 @@
 import { writeFileSync } from "fs";
 
 async function getData() {
-  const apiKey = import.meta.env.APIKEY || "DEMO_KEY";
+  const apiKey = process.env.APIKEY || "DEMO_KEY";
   const url = "https://api.nasa.gov/planetary/apod?api_key=" + apiKey;
   try {
     const res = await fetch(url);

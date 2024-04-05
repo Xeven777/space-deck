@@ -16,6 +16,8 @@ jobs:
           bun-version: latest
 
       - name: Update json
+        env:
+          APIKEY: ${{ secrets.APIKEY }}
         run: |
           bun run generate
           git config --global user.email "xevenbiswas@gmail.com"
