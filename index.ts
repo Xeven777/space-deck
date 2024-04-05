@@ -1,5 +1,4 @@
 import { writeFileSync } from "fs";
-// import data from "./public/Data.json";
 
 async function getData() {
   const apiKey = process.env.APIKEY || "DEMO_KEY";
@@ -18,7 +17,7 @@ async function getData() {
 
   ![NASA APOD](${data.hdurl})
   
-  ## ${data.title} 📸
+  ## ${data.title} 🪄🌌
   
   _${data.date}_
   
