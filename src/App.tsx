@@ -1,5 +1,6 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import bg from "./assets/bg.webp";
+import datajson from "./Data.json";
 
 interface Data {
   title: string;
@@ -10,22 +11,15 @@ interface Data {
 }
 
 function App() {
-  const [data, setData] = useState<Data>();
   const [view, setView] = useState(false);
-
-  useEffect(() => {
-    fetch("/Data.json")
-      .then((response) => response.json())
-      .then((data) => setData(data))
-      .catch((error) => console.error("Error fetching data:", error));
-  }, []);
-
+  console.log(datajson);
+  const data = datajson as Data;
   return (
     <>
       <div className="h-svh w-screen relative overflow-hidden">
         <img
           src={data?.hdurl || bg}
-          alt=""
+          alt="background Image"
           className="object-cover min-h-full "
         />
 
