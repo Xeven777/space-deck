@@ -11,7 +11,7 @@ async function getData() {
       timeZone: "Asia/Kolkata",
     });
     console.log(date);
-    writeFileSync("./public/Data.json", JSON.stringify(data, null, 2));
+    writeFileSync("./src/Data.json", JSON.stringify(data, null, 2));
     const content = `
 # NASA's Picture of the Day 🧑‍🚀💫
 
