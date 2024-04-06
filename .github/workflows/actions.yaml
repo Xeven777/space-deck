@@ -10,7 +10,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup Bun & run
+      - name: Setup Bun & Run
         uses: oven-sh/setup-bun@v1
         with:
           bun-version: latest
@@ -22,6 +22,6 @@ jobs:
           bun run generate
           git config --global user.email "xevenbiswas@gmail.com"
           git config --global user.name "Anish"
-          git add ./src/Data.json
+          git add .
           git commit -m "Updated README on $(TZ=Asia/Kolkata date +'%Y-%m-%d %H:%M')"
           git push origin main
