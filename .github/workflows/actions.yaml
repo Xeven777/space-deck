@@ -2,7 +2,7 @@ name: Daily Data Update
 
 on:
   schedule:
-    - cron: "0 4,8,12,17,22 * * *"
+    - cron: "0 5,8,12,17,22 * * *"
 jobs:
   update-readme:
     runs-on: ubuntu-latest
