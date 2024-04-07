@@ -15,13 +15,18 @@ function App() {
   const data = datajson as Data;
   return (
     <>
-      <div className="h-svh w-screen relative overflow-hidden">
+      <div className="h-svh w-screen relative overflow-hidden flex items-center justify-center bg-slate-800">
         <img
           src={data?.hdurl || bg}
           alt="background Image"
-          className="object-cover min-h-full "
+          className="object-cover min-h-full z-10"
         />
-
+        <img
+          src={data?.hdurl || bg}
+          fetchPriority="low"
+          alt="background Image"
+          className="object-cover min-h-full absolute min-w-full blur-md"
+        />
         {data && (
           <div
             className="absolute z-10 transition-all duration-200 ease-in bottom-2 left-0 sm:left-2 p-4 backdrop-blur bg-gradient-to-tr shadow-sm hover:shadow-lg from-slate-500/40 to-zinc-300/30 rounded-xl text-white space-y-2 tracking-wider max-w-3xl text-balance pb-6"
