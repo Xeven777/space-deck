@@ -19,13 +19,13 @@ function App() {
         <img
           src={data?.hdurl || bg}
           alt="background Image"
-          className="object-cover min-h-full z-10"
+          className="object-cover h-full z-10"
         />
         <img
           src={data?.hdurl || bg}
           fetchPriority="low"
           alt="background Image"
-          className="object-cover min-h-full absolute min-w-full blur-md"
+          className="object-cover h-full absolute min-w-full blur-md"
         />
         {data && (
           <div
