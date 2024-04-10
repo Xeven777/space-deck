@@ -1,5 +1,6 @@
 import { useState } from "react";
 import bg from "./assets/bg.webp";
+import download from "./assets/download.svg";
 import datajson from "./Data.json";
 
 interface Data {
@@ -16,6 +17,13 @@ function App() {
   return (
     <>
       <div className="h-svh w-screen relative overflow-hidden flex items-center justify-center bg-slate-800">
+        <a
+          href={data?.hdurl || bg}
+          download
+          className="z-10 absolute top-2 right-6 p-2 bg-gradient-to-br from-slate-500/20 to-zinc-300/30 rounded-full shadow-sm hover:shadow-lg backdrop-blur cursor-crosshair"
+        >
+          <img src={download} alt="🔻" />
+        </a>
         <img
           src={data?.hdurl || bg}
           alt="background Image"
@@ -34,7 +42,7 @@ function App() {
               setView(!view);
             }}
           >
-            <h1 className="font-bold space text-md sm:text-2xl ">
+            <h1 className="font-bold space text-md sm:text-2xl cursor-crosshair ">
               {data.title}
             </h1>
             <p className="space text-sm opacity-75">{data.date}</p>
