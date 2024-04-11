@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2404/EclipsePlanets_Vetter_1014.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2404/2024_Eclipse_05XTan.jpg)
   
-  ## Planets Around a Total Eclipse 🪄🌌
+  ## Eclipse in Seven 🪄🌌
   
-  _2024-04-10_
+  _2024-04-11_
   
   ### About The Image ✨: 
   
-  What wonders appear when the Moon blocks the Sun? For many eager observers of Monday’s total eclipse of the Sun, the suddenly dark sky included the expected corona and two (perhaps surprise) planets: Venus and Jupiter. Normally, in recent days, Venus is visible only in the morning when the Sun and Jupiter are below the horizon, while Jupiter appears bright only in the evening.  On Monday, though, for well-placed observers, both planets became easily visible during the day right in line with the totally eclipsed Sun. This line was captured Monday afternoon in the featured image from Mount Nebo, Arkansas, USA, along with a line of curious observers — and a picturesque tree.   Monday's Eclipse Imagery: Notable Submissions to APOD
+  Start at the upper left above and you can follow the progress of April 8's total eclipse of the Sun in seven sharp, separate exposures. The image sequence was recorded with a telescope and camera located within the narrow path of totality as the Moon's shadow swept across Newport, Vermont, USA. At center is a spectacular view of the solar corona. The tenuous outer atmosphere of the Sun is only easily visible to the eye in clear dark skies during the total eclipse phase. Seen from Newport, the total phase for this solar eclipse lasted about 3 minutes and 26 seconds.   Monday's Eclipse Imagery: Notable Submissions to APOD
   
   
   
-  > _Last Updated: 4/10/2024, 2:09:41 PM (in GMT)_
+  > _Last Updated: 4/11/2024, 2:10:13 PM (in GMT)_
   
