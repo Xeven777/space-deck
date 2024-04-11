@@ -20,7 +20,7 @@ function App() {
         <a
           href={data?.hdurl || bg}
           download
-          className="z-10 absolute top-2 right-6 p-2 bg-gradient-to-br from-slate-500/20 to-zinc-300/30 rounded-full shadow-sm hover:shadow-lg backdrop-blur cursor-crosshair"
+          className="z-30 absolute top-2 right-6 p-2 bg-gradient-to-br from-slate-500/20 to-zinc-300/30 rounded-full shadow-sm hover:shadow-lg backdrop-blur cursor-crosshair active:scale-95 transition-all"
         >
           <img src={download} alt="🔻" />
         </a>
