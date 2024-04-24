@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2404/ContrailX_Ekmen_2268.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2404/DragonsEgg_Prangley_4688.jpg)
   
-  ## Contrail Shadow X 🪄🌌
+  ## Dragon's Egg Bipolar Emission Nebula 🪄🌌
   
-  _2024-04-23_
+  _2024-04-24_
   
   ### About The Image ✨: 
   
-  What created this giant X in the clouds? It was the shadow of contrails illuminated from below. When airplanes fly, humid engine exhaust may form water droplets that might freeze in Earth's cold upper atmosphere.  These persistent streams of water and ice scatter light from the Sun above and so appear bright from below. On rare occasions, though, when the Sun is near the horizon, contrails can be lit from below.  These contrails cast long shadows upwards, shadows that usually go unseen unless there is a high cloud deck. But that was just the case over Istanbul, Türkiye, earlier this month. Contrails occur all over planet Earth and, generally, warm the Earth when the trap infrared light but cool the Earth when they efficiently reflect sunlight. The image was taken by a surprised photographer in the morning on the way to work.
+  How did a star form this beautiful nebula?  In the middle of emission nebula NGC 6164 is an unusually massive star.  The central star has been compared to an oyster's pearl and an egg protected by the mythical sky dragons of Ara.  The star, visible in the center of the featured image and catalogued as HD 148937, is so hot that the ultraviolet light it emits heats up gas that surrounds it.  That gas was likely thrown off from the star previously, possibly the result of a gravitational interaction with a looping stellar companion.  Expelled material might have been channeled by the magnetic field of the massive star, in all creating the symmetric shape of the bipolar nebula.  NGC 6164 spans about four light years and is located about 3,600 light years away toward the southern constellation Norma.   New Mirror: APOD now available via WhatsApp
   
   
   
-  > _Last Updated: 4/23/2024, 2:08:12 PM (in GMT)_
+  > _Last Updated: 4/24/2024, 2:09:39 PM (in GMT)_
   
