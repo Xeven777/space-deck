@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg)
+  ![NASA APOD](undefined)
   
-  ## Stereo Helene 🪄🌌
+  ## Rotating Moon from LRO 🪄🌌
   
-  _2024-06-01_
+  _2024-06-02_
   
   ### About The Image ✨: 
   
-  Get out your red/blue glasses and float next to Helene, small, icy moon of Saturn. Appropriately named, Helene is a Trojan moon, so called because it orbits at a Lagrange point. A Lagrange point is a gravitationally stable position near two massive bodies, in this case Saturn and larger moon Dione. In fact, irregularly shaped ( about 36 by 32 by 30 kilometers) Helene orbits at Dione's leading Lagrange point while brotherly ice moon Polydeuces follows at Dione's trailing Lagrange point. The sharp stereo anaglyph was constructed from two Cassini images captured during a close flyby in 2011. It shows part of the Saturn-facing hemisphere of Helene mottled with craters and gully-like features.
+  No one, presently, sees the Moon rotate like this. That's because the Earth's moon is tidally locked to the Earth, showing us only one side.  Given modern digital technology, however, combined with many detailed images returned by the Lunar Reconnaissance Orbiter (LRO), a high resolution virtual Moon rotation movie has been composed. The featured time-lapse video starts with the standard Earth view of the Moon. Quickly, though, Mare Orientale, a large crater with a dark center that is difficult to see from the Earth, rotates into view just below the equator.  From an entire lunar month condensed into 24 seconds, the video clearly shows that the Earth side of the Moon contains an abundance of dark lunar maria, while the lunar far side is dominated by bright lunar highlands. Currently, over 32 new missions to the Moon are under active development from multiple countries and companies, including NASA's Artemis program which aims to land people on the Moon again within the next few years.
   
   
   
-  > _Last Updated: 6/1/2024, 2:08:16 PM (in GMT)_
+  > _Last Updated: 6/2/2024, 2:08:32 PM (in GMT)_
   
