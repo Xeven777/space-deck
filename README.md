@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2406/NeretvaVallis_PerseveranceNevT_4000.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565.jpg)
   
-  ## Shadow of a Martian Robot 🪄🌌
+  ## NGC 4565: Galaxy on Edge 🪄🌌
   
-  _2024-06-05_
+  _2024-06-06_
   
   ### About The Image ✨: 
   
-  What if you saw your shadow on Mars and it wasn't human?  Then you might be the Perseverance rover exploring Mars.  Perseverance has been examining the Red Planet since 2021, finding evidence of its complex history of volcanism and ancient flowing water, and sending breathtaking images across the inner Solar System.  Pictured here in February of 2024, Perseverance looks opposite the Sun and across Neretva Vallis in Jezero Crater, with a local hill visible at the top of the frame.  The distinctively non-human shadow of the car-sized rover is visible below center, superposed on scattered rocks.  Perseverance, now working without its flying companion Ingenuity, continues to search Mars for signs of ancient life.
+  Magnificent spiral galaxy NGC 4565 is viewed edge-on from planet Earth. Also known as the Needle Galaxy for its narrow profile, bright NGC 4565 is a stop on many telescopic tours of the northern sky, in the faint but well-groomed constellation Coma Berenices. This sharp, colorful image reveals the galaxy's boxy, bulging central core cut by obscuring dust lanes that lace NGC 4565's thin galactic plane. NGC 4565 itself lies about 40 million light-years distant and spans some 100,000 light-years.  Easily spotted with small telescopes, sky enthusiasts consider NGC 4565 to be a prominent celestial masterpiece Messier missed.
   
   
   
-  > _Last Updated: 6/5/2024, 2:10:05 PM (in GMT)_
+  > _Last Updated: 6/6/2024, 2:09:59 PM (in GMT)_
   
