@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_1350.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2407/Arp142_Webb_1487.jpg)
   
-  ## Milky Way over Uluru 🪄🌌
+  ## Arp 142: Interacting Galaxies from Webb 🪄🌌
   
-  _2024-07-29_
+  _2024-07-30_
   
   ### About The Image ✨: 
   
-  What's happening above Uluru?  A United Nations World Heritage Site, Uluru  is an extraordinary 350-meter high mountain in central Australia that rises sharply from nearly flat surroundings. Composed of sandstone, Uluru has slowly formed over the past 300 million years as softer rock eroded away.  The Uluru region has been a home to humans for over 22,000 years. Recorded  last month, the starry sky above Uluru includes the central band of our Milky Way galaxy, complete with complex dark filaments of dust, bright red emission nebulas, and billions of stars.
+  To some, it looks like a penguin. But to people who study the universe, it is an interesting example of two big galaxies interacting. Just a few hundred million years ago, the upper NGC 2936 was likely a normal spiral galaxy: spinning, creating stars, and minding its own business.  Then it got too close to the massive elliptical galaxy NGC 2937, below, and took a dive.  Together known as Arp 142, they are featured in this new Webb infrared image, while a visible light Hubble image appears in comparison.  NGC 2936 is not only being deflected, but distorted, by this close gravitational interaction.  When massive galaxies pass near each other, gas is typically condensed from which new stars form.  A young group of stars appears as the nose of the penguin toward the right of the upper galaxy, while in the center of the spiral, bright stars together appear as an eye.  Before a billion years, the two galaxies will likely merge into one larger galaxy.   Explore Your Universe: Random APOD Generator
   
   
   
-  > _Last Updated: 7/29/2024, 2:10:57 PM (in GMT)_
+  > _Last Updated: 7/30/2024, 2:10:09 PM (in GMT)_
   
