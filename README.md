@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2408/FijiMoonsetWangJin.jpg)
   
-  ## The Dark Tower in Scorpius 🪄🌌
+  ## South Pacific Shadowset 🪄🌌
   
-  _2024-08-22_
+  _2024-08-24_
   
   ### About The Image ✨: 
   
-  In silhouette against a crowded star field along the tail of the arachnological constellation Scorpius, this dusty cosmic cloud evokes for some the image of an ominous dark tower. In fact, monstrous clumps of dust and molecular gas collapsing to form stars may well lurk within the dark nebula, a structure that spans almost 40 light-years across this gorgeous telescopic portrait. A cometary globule, the swept-back cloud is shaped by intense ultraviolet radiation from the OB association of very hot stars in NGC 6231, off the upper right corner of the scene. That energetic ultraviolet light also powers the globule's bordering reddish glow of hydrogen gas. Hot stars embedded in the dust can be seen as bluish reflection nebulae. This dark tower and associated nebulae are about 5,000 light-years away.   Growing Gallery: Moon Eclipses Saturn in August 2024
+  The full Moon and Earth's shadow set together in this island skyscape. The alluring scene was captured Tuesday morning, August 20, from Fiji, South Pacific Ocean, planet Earth. For early morning risers shadowset in the western sky is a daily apparition. Still, the grey-blue shadow is often overlooked in favor of a brighter eastern horizon. Extending through the dense atmosphere, Earth's setting shadow is bounded above by a pinkish glow or anti-twilight arch. Known as the Belt of Venus, the arch's lovely color is due to backscattering of reddened light from the opposite horizon's rising Sun. Of course, the setting Moon's light is reddened by the long sight-line through the atmosphere. But on that date the full Moon could be called a seasonal Blue Moon, the third full Moon in a season with four full Moons. And even though the full Moon is always impressive near the horizon, August's full Moon is considered by some the first of four consecutive full Supermoons in 2024.
   
   
   
-  > _Last Updated: 8/22/2024, 2:11:17 PM (in GMT)_
+  > _Last Updated: 8/24/2024, 2:09:29 PM (in GMT)_
   
