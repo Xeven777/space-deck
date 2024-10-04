@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2410/earliestsolareclipse.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2410/zaparolliA3.png)
   
-  ## Eclipse at Sunrise 🪄🌌
+  ## Comet at Moonrise 🪄🌌
   
-  _2024-10-03_
+  _2024-10-04_
   
   ### About The Image ✨: 
   
-  The second solar eclipse of 2024 began in the Pacific. On October 2nd the Moon's shadow swept from west to east, with an annular eclipse visible along a narrow antumbral shadow path tracking mostly over ocean, crossing land near the southern tip of South America, and ending in the southern Atlantic. The dramatic total annular eclipse phase is known to some as a ring of fire. Still, a partial eclipse of the Sun was experienced over a wide region. Captured at one of its earliest moments, October's eclipsed Sun is seen just above the clouds near sunrise in this snapshot. The partially eclipsed solar disk is close to the maximum eclipse as seen from Mauna Kea Observatory Visitor Center, Island of Hawaii, planet Earth.
+  Comet C/2023 A3 (Tsuchinshan–ATLAS) is growing brighter in planet Earth's sky. Fondly known as comet A3, this new visitor to the inner Solar System is traveling from the distant Oort cloud. The comet reached perihelion, its closest approach to the Sun, on September 27 and will reach perigee, its closest to our fair planet, on October 12, by then becoming an evening sky apparition. But comet A3 was an early morning riser on September 30 when this image was made. Its bright coma and already long tail share a pre-dawn skyscape from Praia Grande, Santa Catarina in southern Brazil with the waning crescent Moon just peeking above the eastern horizon. While the behaviour of comets is notoriously unpredictable, Tsuchinshan–ATLAS could become a comet visually rivaling C/2020 F3 (NEOWISE). Comet NEOWISE wowed skygazers in the summer of 2020.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024
   
   
   
-  > _Last Updated: 10/3/2024, 2:14:26 PM (in GMT)_
+  > _Last Updated: 10/4/2024, 2:14:10 PM (in GMT)_
   
