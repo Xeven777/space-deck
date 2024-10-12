@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2410/eclipse_02.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2410/241010_eggleston.jpg)
   
-  ## Ring of Fire over Easter Island 🪄🌌
+  ## Northern Lights, West Virginia 🪄🌌
   
-  _2024-10-11_
+  _2024-10-12_
   
   ### About The Image ✨: 
   
-  The second solar eclipse of 2024 began in the Pacific. On October 2nd the Moon's shadow swept from west to east, with an annular eclipse visible along a narrow antumbral shadow path tracking mostly over ocean, making its only major landfall near the southern tip of South America, and then ending in the southern Atlantic. The dramatic total annular eclipse phase is known to some as a ring of fire. Also tracking across islands in the southern Pacific, the Moon's antumbral shadow grazed Easter Island allowing denizens to follow all phases of the annular eclipse. Framed by palm tree leaves this clear island view is a stack of two images, one taken with and one taken without a solar filter near the moment of the maximum annular phase. The New Moon's silhouette appears just off center, though still engulfed by the bright disk of the active Sun.
+  A gravel country lane gently winds through this colorful rural night skyscape. Captured from Monroe County in southern West Virginia on the evening of October 10, the starry sky above is a familiar sight. Shimmering curtains of aurora borealis or northern lights definitely do not make regular appearances here, though. Surprisingly vivid auroral displays were present on that night at very low latitudes around the globe, far from their usual northern and southern high latitude realms. The extensive auroral activity was evidence of a severe geomagnetic storm triggered by the impact of a coronal mass ejection (CME), an immense magnetized cloud of energetic plasma. The CME was launched toward Earth from the active Sun following a powerful X-class solar flare.   Growing Gallery: Global aurora during October 10/11, 2024
   
   
   
-  > _Last Updated: 10/11/2024, 2:13:51 PM (in GMT)_
+  > _Last Updated: 10/12/2024, 2:12:24 PM (in GMT)_
   
