@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2411/Ldn1355HelpingHandFR2048.png)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2411/neptunetriton_voyager_960.jpg)
   
-  ## Helping Hand in Cassiopeia 🪄🌌
+  ## Neptune at Night 🪄🌌
   
-  _2024-11-08_
+  _2024-11-09_
   
   ### About The Image ✨: 
   
-  Drifting near the plane of our Milky Way galaxy these dusty molecular clouds seem to extend a helping hand on a cosmic scale. Part of a local complex of star-forming interstellar clouds they include LDN 1358, 1357, and 1355 from American astronomer Beverly Lynds' 1962 Catalog of Dark Nebulae. Presenting a challenging target for astro-imagers, the obscuring dark nebulae are nearly 3,000 light-years away, toward rich starfields in the northern constellation Cassiopeia. At that distance, this deep, telescopic field of view would span about 80 light-years.
+  Ice giant Neptune is faint in Earth's night sky. Some 30 times farther from the Sun than our fair planet, telescopes are needed to catch a glimpse of the dim and distant world. This dramatic view of Neptune's night just isn't possible for telescopes in the vicinity of planet Earth though. Peering out from the inner Solar System they can only bring Neptune's day side into view.  In fact this night side image with Neptune's slender crescent next to the crescent of its large moon Triton was captured by Voyager 2. Launched from planet Earth in 1977 the Voyager 2 spacecraft made a close fly by of the Solar System's outermost planet in 1989, looking back on Neptune as the robotic spacecraft continued its voyage to interstellar space.
   
   
   
-  > _Last Updated: 11/8/2024, 2:12:49 PM (in GMT)_
+  > _Last Updated: 11/9/2024, 2:11:28 PM (in GMT)_
   
