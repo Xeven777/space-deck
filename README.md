@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2412/Geminids_Kurak_5757.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2412/CometCliffs_Rosetta_960.jpg)
   
-  ## Geminid Meteors over a Snowy Forest 🪄🌌
+  ## A Kilometer High Cliff on Comet Churyumov - Gerasimenko 🪄🌌
   
-  _2024-12-15_
+  _2024-12-16_
   
   ### About The Image ✨: 
   
-  Meteors have been flowing out from the constellation Gemini.  This was expected, as mid-December is the time of the Geminid Meteor Shower.  Pictured here, over two dozen meteors were caught in successively added exposures taken over several hours early Saturday morning from a snowy forest in Poland. The fleeting streaks were bright enough to be seen over the din of the nearly full Moon on the upper right. These streaks can all be traced back to a point on the sky called the radiant toward the bright stars Pollux and Castor in the image center. The Geminid meteors started as sand sized bits expelled from asteroid 3200 Phaethon during its elliptical orbit through the inner Solar System.    Jigsaw Challenge: Astronomy Puzzle of the Day
+  This kilometer high cliff occurs on the surface of a comet.  It was discovered on the dark nucleus of Comet Churyumov - Gerasimenko (CG) by Rosetta, a robotic spacecraft launched by ESA, which orbited the comet from 2014 to 2016.  The ragged cliff, as featured here, was imaged by Rosetta early in its mission. Although towering about one kilometer high, the low surface gravity of Comet CG would likely make a jump from the cliffs by a human survivable.  At the foot of the cliffs is relatively smooth terrain dotted with boulders as large as 20 meters across. Data from Rosetta indicates that the ice in Comet CG has a significantly different deuterium fraction -- and hence likely a different origin -- than the water in Earth's oceans.  The probe was named after the Rosetta Stone, a rock slab featuring the same text written in three different languages that helped humanity decipher ancient Egyptian writing.
   
   
   
-  > _Last Updated: 12/15/2024, 2:14:12 PM (in GMT)_
+  > _Last Updated: 12/16/2024, 2:18:13 PM (in GMT)_
   
