@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2412/ConeTree_White_2154.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2412/IceHalos_Fous_5568.jpg)
   
-  ## Fox Fur, Cone, and Christmas Tree 🪄🌌
+  ## Diamond Dust Sky Eye 🪄🌌
   
-  _2024-12-24_
+  _2024-12-25_
   
   ### About The Image ✨: 
   
-  What do the following things have in common: a cone, the fur of a fox, and a Christmas tree?  Answer: they all occur in the constellation of the Unicorn (Monoceros).  Considered as a star forming region and cataloged as NGC 2264, the complex jumble of cosmic gas and dust is about 2,700 light-years distant and mixes reddish emission nebulae excited by energetic light from newborn stars with dark interstellar dust clouds. The featured image spans an angle larger than a full moon, covering over 50 light-years at the distance of NGC 2264. Its cast of cosmic characters includes the Fox Fur Nebula, whose convoluted pelt lies just to the left of the image center, bright variable star S Mon visible just to the right of the Fox Fur, and the Cone Nebula near the image top.  With the Cone Nebula at the peak, the shape of the general glow of the region give it the nickname of the Christmas Tree Cluster, where stars are tree ornaments.   Explore Your Universe: Random APOD Generator
+  Why is there a huge eye in the sky? Diamond dust. That is an informal term for small ice crystals that form in the air and flitter to the ground. Because these crystals are geometrically shaped, they can together reflect light from the Sun or Moon to your eyes in a systematic way, causing huge halos and unusual arcs to appear. And sometimes, together the result can seem like a giant eye looking right back at you. In the featured image taken in the Ore Mountains of the Czech Republic last week, a bright Moon rising through ice fog-filled air resulted in many of these magnificent sky illusions to be visible simultaneously.  Besides Moon dogs, tangent arcs, halos, and a parhelic circle, light pillars above distant lights are visible on the far left, while Jupiter and Mars can be found just inside the bottom of the 22-degree halo.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
   
   
   
-  > _Last Updated: 12/24/2024, 2:13:45 PM (in GMT)_
+  > _Last Updated: 12/25/2024, 2:13:40 PM (in GMT)_
   
