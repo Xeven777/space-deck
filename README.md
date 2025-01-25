@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2501/C2024G3_ATLAS_ESO_Beletsky.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2501/ngc1333_jeff_version_4_2048.jpg)
   
-  ## Comet G3 ATLAS: a Tail and a Telescope 🪄🌌
+  ## Stardust in the Perseus Molecular Cloud 🪄🌌
   
-  _2025-01-24_
+  _2025-01-25_
   
   ### About The Image ✨: 
   
-  Comet C/2024 G3 ATLAS has made a dramatic appearance in planet Earth's skies. A visitor from the distant Oort Cloud, the comet reached its perihelion on January 13. On January 19, the bright comet was captured here from ESO Paranal Observatory in the Atacama desert in Chile. Sporting spectacular sweeping dust tails, this comet ATLAS is setting in the southern hemisphere twilight and was clearly visible to the unaided eye. In the foreground is the closed shell of one of the observatory's famous auxiliary telescopes. Still wowing southern hemisphere observers, the comet's bright coma has become diffuse, its icy nucleus apparently disintegrating following its close approach to the Sun.   Growing Gallery: Comet ATLAS (G3)
+  Clouds of stardust drift through this deep skyscape, across the Perseus molecular cloud some 850 light-years away. Dusty nebulae reflecting light from embedded young stars stand out in the nearly 4 degree wide field of view. With a characteristic bluish color reflection nebula NGC 1333 is prominent near center. Hints of contrasting red emission from Herbig-Haro objects, the jets and shocked glowing gas emanating from recently formed stars, are scattered across the dusty expanse. While many stars are forming in the molecular cloud, most are obscured at visible wavelengths by the pervasive dust. The chaotic environment surrounding NGC 1333 may be similar to one in which our own Sun formed over 4.5 billion years ago. At the estimated distance of the Perseus molecular cloud, this cosmic scene would span about 80 light-years.   Growing Gallery: Comet ATLAS (G3)
   
   
   
-  > _Last Updated: 1/24/2025, 2:12:28 PM (in GMT)_
+  > _Last Updated: 1/25/2025, 2:10:29 PM (in GMT)_
   
