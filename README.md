@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2502/AthenaEarth.png)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg)
   
-  ## Athena to the Moon 🪄🌌
+  ## Blue Ghost to the Moon 🪄🌌
   
-  _2025-02-28_
+  _2025-03-01_
   
   ### About The Image ✨: 
   
-  Planet Earth hangs in the background of this space age selfie. The snapshot was captured by the IM-2 Nova-C lander Athena, just after stage separation following its February 26 launch to the Moon. A tall robotic lander, Athena is scheduled to touch down on Thursday, March 6, in Mons Mouton, a plateau near the Moon’s South Pole. The intended landing site is in the central portion of one of the Artemis 3 potential landing regions. Athena carries rovers and experiments as part of NASA's Commercial Lunar Payload Services program, including a drill intended to explore beneath the lunar surface in a search for evidence of frozen water. It also carries a propulsive drone dubbed the Micro Nova Hopper. After release to the lunar surface, the autonomous drone is intended to hop into a nearby crater and send science data back to the lander.
+  With spacecraft thrusters at top center, the rugged surface of the Moon lies below the Blue Ghost lander in this space age video frame. The view of the lunar far side was captured by the Firefly Aerospace lunar lander on February 24, following a maneuver to circularize its orbit about 100 kilometers above the lunar surface. The robotic lunar lander is scheduled to touch down tomorrow, Sunday, March 2, at 3:34am Eastern Time in the Mare Crisium impact basin on the lunar near side. In support of the Artemis campaign, Blue Ghost is set to deliver science and technology experiments to the Moon, part of NASA's Commercial Lunar Payload Services program. Blue Ghost's mission on the surface is planned to operate during the lunar daylight hours at the landing site, about 14 Earth days.
   
   
   
-  > _Last Updated: 2/28/2025, 2:13:42 PM (in GMT)_
+  > _Last Updated: 3/1/2025, 2:12:42 PM (in GMT)_
   
