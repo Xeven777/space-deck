@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2503/iss072e574593_DonPetit2048.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2503/JupiterCyclones_Juno_2362.jpg)
   
-  ## Galaxies in Space 🪄🌌
+  ## Cyclones at Jupiter's North Pole 🪄🌌
   
-  _2025-03-08_
+  _2025-03-09_
   
   ### About The Image ✨: 
   
-  The plane of our Milky Way galaxy extends beyond the limb of planet Earth in this space age exposure captured by astronaut Don Pettit. His camera, with low light and long duration settings, was pointed out the window of a Dragon crew spacecraft docked with the International Space Station on January 29. The orbital outpost was at an altitude of about 400 kilometers above the Pacific Ocean at the time. Motion blurs the Earth below, while the gorgeous view from low Earth orbit includes the Milky Way's prominent satellite galaxies, known as the Large and Small Magellanic Clouds, near the upper left in the frame. Fans of southern skies can also spot the Southern Cross. The four brightest stars of the famous southern constellation Crux are near picture center, just beyond the edge of the bright horizon and shining through Earth's orange tinted atmospheric glow.
+  Why are there so many cyclones around the north pole of Jupiter? The topic is still being researched.  NASA's robotic Juno mission orbiting Jupiter took data in 2018 that was used to construct this stunning view of the curious cyclones at Jupiter's north pole. Measuring the thermal emission from Jovian cloud tops, the infrared observations are not restricted to the hemisphere illuminated by sunlight. They reveal eight cyclonic features that surround a cyclone about 4,000 kilometers in diameter, just offset from the giant planet's geographic north pole. Similar data show a cyclone at the Jovian south pole with five circumpolar cyclones. The south pole cyclones are slightly larger than their northern cousins. Oddly, data from the once Saturn-orbiting Cassini mission has shown that Saturn's north and south poles each have only a single cyclonic storm system.
   
   
   
-  > _Last Updated: 3/8/2025, 2:08:36 PM (in GMT)_
+  > _Last Updated: 3/9/2025, 2:08:05 PM (in GMT)_
   
