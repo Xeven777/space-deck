@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2503/pia24493-2-1041.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2503/OgunquitBeach_Curiosity_8776.jpg)
   
-  ## SuperCam Target on Ma'az 🪄🌌
+  ## Ancient Ogunquit Beach on Mars 🪄🌌
   
-  _2025-03-22_
+  _2025-03-23_
   
   ### About The Image ✨: 
   
-  What's the sound of one laser zapping? There's no need to consult a Zen master to find out, just listen to the first acoustic recording of laser shots on Mars. On Mars Rover Perseverance mission sol 12 (March 2, 2021) the SuperCam instrument atop the rover's mast zapped a rock dubbed Ma'az 30 times from a range of about 3.1 meters. Its microphone recorded the soft staccato popping sounds of the rapid series of SuperCam laser zaps. Shockwaves created in the thin Martian atmosphere as bits of rock are vaporized by the laser shots make the popping sounds, sounds that offer clues to the physical structure of the target. This SuperCam close-up of the Ma'az target region is 6 centimeters (2.3 inches) across. Ma'az means Mars in the Navajo language.
+  This was once a beach -- on ancient Mars. The featured 360-degree panorama, horizontally compressed, was taken in 2017 by the robotic Curiosity rover that explored the red planet. Named Ogunquit Beach after its terrestrial counterpart, evidence shows that at times long ago the area was underwater, while at other times it was at the edge of an ancient lake.  The light peak in the central background is the top of Mount Sharp, the central feature in Gale Crater where Curiosity explored. Portions of the dark sands in the foreground were  scooped up for analysis.  The light colored bedrock is composed of sediment that likely settled at the bottom of the now-dried lakebed.  The featured panorama (interactive version here) was created from over 100 images and seemingly signed by the rover on the lower left.
   
   
   
-  > _Last Updated: 3/22/2025, 2:12:49 PM (in GMT)_
+  > _Last Updated: 3/23/2025, 2:12:59 PM (in GMT)_
   
