@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2503/OgunquitBeach_Curiosity_8776.jpg)
+  ![NASA APOD](undefined)
   
-  ## Ancient Ogunquit Beach on Mars 🪄🌌
+  ## A Total Lunar Eclipse Over Uruguay 🪄🌌
   
-  _2025-03-23_
+  _2025-03-24_
   
   ### About The Image ✨: 
   
-  This was once a beach -- on ancient Mars. The featured 360-degree panorama, horizontally compressed, was taken in 2017 by the robotic Curiosity rover that explored the red planet. Named Ogunquit Beach after its terrestrial counterpart, evidence shows that at times long ago the area was underwater, while at other times it was at the edge of an ancient lake.  The light peak in the central background is the top of Mount Sharp, the central feature in Gale Crater where Curiosity explored. Portions of the dark sands in the foreground were  scooped up for analysis.  The light colored bedrock is composed of sediment that likely settled at the bottom of the now-dried lakebed.  The featured panorama (interactive version here) was created from over 100 images and seemingly signed by the rover on the lower left.
+  If the full Moon suddenly faded, what would you see? The answer was recorded in a dramatic time lapse video taken during the total lunar eclipse last week from Uruguay. During a total lunar eclipse, the Earth moves between the Moon and the Sun, causing the Moon to fade dramatically. The Moon never gets completely dark, though, since the Earth's atmosphere refracts some light. As the featured video begins, the scene may appear to be daytime and sunlit, but actually it is nighttime and lit by the glow of the full Moon. As the Moon becomes eclipsed and fades, background stars become visible. Most spectacularly, the sky surrounding the eclipsed moon suddenly appears to be full of stars and highlighted by the busy plane of our Milky Way Galaxy. Nearly two hours after the eclipse started, the Moon emerged from the Earth's shadow and its bright full glare again dominated the sky.
   
   
   
-  > _Last Updated: 3/23/2025, 2:12:59 PM (in GMT)_
+  > _Last Updated: 3/24/2025, 2:17:07 PM (in GMT)_
   
