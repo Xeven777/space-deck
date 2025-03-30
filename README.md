@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2503/N00172886_92_beltramini.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_3453.jpg)
   
-  ## Stereo Helene 🪄🌌
+  ## A Partial Solar Eclipse over Iceland 🪄🌌
   
-  _2025-03-29_
+  _2025-03-30_
   
   ### About The Image ✨: 
   
-  Get out your red/blue glasses and float next to Helene, small, icy moon of Saturn. Appropriately named, Helene is a Trojan moon, so called because it orbits at a Lagrange point. A Lagrange point is a gravitationally stable position near two massive bodies, in this case Saturn and larger moon Dione. In fact, irregularly shaped ( about 36 by 32 by 30 kilometers) Helene orbits at Dione's leading Lagrange point while brotherly ice moon Polydeuces follows at Dione's trailing Lagrange point. The sharp stereo anaglyph was constructed from two Cassini images captured during a close flyby in 2011. It shows part of the Saturn-facing hemisphere of Helene mottled with craters and gully-like features.
+  What if the Sun and Moon rose together? That happened yesterday over some northern parts of planet Earth as a partial solar eclipse occurred shortly after sunrise. Regions that experienced the Moon blocking part of the Sun included northeastern parts of North America and northwestern parts of Europe, Asia, and Africa.  The featured image was captured yesterday over the Grábrók volcanic crater in Iceland where much of the Sun became momentarily hidden behind the Moon. The image was taken through a cloudy sky but so well planned that the photographer's friend appeared to be pulling the Sun out from behind the Moon. No part of the Earth experienced a total solar eclipse this time. In the distant past, some of humanity was so surprised when an eclipse occurred that ongoing battles suddenly stopped.  Today, eclipses are not a surprise and are predicted with an accuracy of seconds.   Growing Gallery: Partial Solar Eclipse of 2025 March
   
   
   
-  > _Last Updated: 3/29/2025, 2:13:59 PM (in GMT)_
+  > _Last Updated: 3/30/2025, 2:12:47 PM (in GMT)_
   
