@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2504/Gum37Hoo_Bozon_4863.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2504/SaturnSeasons_Fontes_960.jpg)
   
-  ## Gum 37 and the Southern Tadpoles 🪄🌌
+  ## Saturn's Rings Appear to Disappear 🪄🌌
   
-  _2025-04-28_
+  _2025-04-29_
   
   ### About The Image ✨: 
   
-  This cosmic skyscape features glowing gas and dark dust clouds alongside the young stars of NGC 3572.  A beautiful emission nebula and star cluster, it sails far southern skies within the nautical constellation Carina.  Stars from NGC 3572 are toward top center in the telescopic frame that would measure about 100 light-years across at the cluster's estimated distance of 9,000 light-years.  The visible interstellar gas and dust, shown in colors of the Hubble palette, is part of the star cluster's natal molecular cloud, itself cataloged as Gum 37. Dense streamers of material within the nebula, eroded by stellar winds and radiation, clearly trail away from the energetic young stars.  They are likely sites of ongoing star formation with shapes reminiscent of the Tadpoles of IC 410 -- better known to northern skygazers.  In the coming tens to hundreds of millions of years, gas and stars in the cluster will be dispersed though, by gravitational tides and by violent supernova explosions that end the short lives of the massive cluster stars.
+  Where are Saturn's ears? Galileo is credited, in 1610, as the first person to see Saturn's rings. Testing out Lipperhey's recently co-invented telescope, Galileo did not know what they were and so called them "ears".  The mystery deepened in 1612, when Saturn's ears mysteriously disappeared. Today we know exactly what happened: from the perspective of the Earth, Saturn's rings had become too thin to see.  The same drama plays out every 15 years because Saturn, like Earth, undergoes tilt-driven seasons. This means that as Saturn goes around the Sun, its equator and rings can tilt noticeably toward the Sun and inner Solar System, making them easily visible, but from other orbital locations will appear almost not at all.  The featured picture from Brasilia, Brazil shows a modern version of this sequence: the top ring-dominated image was taken in 2020, while the bottom ring-obscure image taken earlier in 2025.   Make Saturn's Rings Musical: Play them like a harp!
   
   
   
-  > _Last Updated: 4/28/2025, 3:59:24 PM (in GMT)_
+  > _Last Updated: 4/29/2025, 2:19:38 PM (in GMT)_
   
