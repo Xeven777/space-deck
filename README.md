@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2505/IssTransit_Sanz_2569.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2505/NGC6366_3500.jpg)
   
-  ## International Space Station Crosses the Sun 🪄🌌
+  ## NGC 6366 vs 47 Ophiuchi 🪄🌌
   
-  _2025-05-21_
+  _2025-05-23_
   
   ### About The Image ✨: 
   
-  Typically, the International Space Station is visible only at night.  Slowly drifting across the night sky as it orbits the Earth, the International Space Station (ISS) can be seen as a bright spot about once a month from many locations.  The ISS is then visible only just after sunset or just before sunrise because it shines by reflected sunlight -- once the ISS enters the Earth's shadow, it will drop out of sight. The only occasion when the ISS is visible during the day is when it passes right in front of the Sun. Then, it passes so quickly that only cameras taking short exposures can visually freeze the ISS's silhouette onto the background Sun. The featured picture did exactly that -- it is actually a series of images taken a month ago from Sant Feliu de Buixalleu, Spain with perfect timing.  This image series was later combined with a separate image highlighting the texture of the active Sun which included several Sun's prominences around the edge.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
+  Most globular star clusters roam the halo of our Milky Way galaxy, but globular cluster NGC 6366 lies close to the galactic plane. About 12,000 light-years away toward the constellation Ophiuchus, the cluster's starlight is dimmed and reddened by the Milky Way's interstellar dust when viewed from planet Earth. As a result, the stars of NGC 6366 look almost golden in this telescopic scene, especially when seen next to relatively bright, bluish, and nearby star 47 Ophiuchi. Compared to the hundred thousand stars or so gravitationally bound in distant NGC 6366, 47 Oph itself is a binary star system  a mere 100 light-years away. Still, the co-orbiting stars of 47 Oph are too close together to be individually distinguished in the image.
   
   
   
-  > _Last Updated: 5/21/2025, 2:19:39 PM (in GMT)_
+  > _Last Updated: 5/23/2025, 2:18:57 PM (in GMT)_
   
