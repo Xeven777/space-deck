@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2506/APODStarryNight30thanniversary.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2506/RosettaDeepRed_Mendez_3294.jpg)
   
-  ## APOD is 30 Years Old Today 🪄🌌
+  ## Rosette Nebula Deep Field 🪄🌌
   
-  _2025-06-16_
+  _2025-06-17_
   
   ### About The Image ✨: 
   
-  APOD is 30 years old today. In celebration, today's picture uses past APODs as tiles arranged to create a single pixelated image that might remind you of one of the most well-known and evocative depictions of planet Earth's night sky. In fact, this Starry Night consists of 1,836 individual images contributed to APOD over the last 5 years in a mosaic of 32,232 tiles. Today, APOD would like to offer a sincere thank you to our contributors, volunteers, and readers. Over the last 30 years your continuing efforts have allowed us to enjoy, inspire, and share a discovery of the cosmos.
+  Can you find the Rosette Nebula? The red flowery-looking nebula just above the image center may seem a good choice, but that's not it.  The famous Rosette Nebula is really located on the lower right, here colored blue and white, and connected to the other nebulas by gold-colored filaments.  Because the featured image of Rosette's field is so wide, and because of its deep red exposure, it seems to contain other flowers.  Designated NGC 2237, the center of the Rosette Nebula is populated by the bright blue stars of open cluster NGC 2244, whose winds and energetic light are evacuating the nebula's center.  The Rosette Nebula is about 5,000 light years distant and, just by itself, spans about three times the diameter of a full moon. This flowery field can be found toward the constellation of the Unicorn  (Monoceros).   Explore Your Universe: Random APOD Generator
   
   
   
-  > _Last Updated: 6/16/2025, 2:22:03 PM (in GMT)_
+  > _Last Updated: 6/17/2025, 2:21:54 PM (in GMT)_
   
