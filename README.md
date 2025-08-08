@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2508/DoubleClusterBrechersmall.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg)
   
-  ## The Double Cluster in Perseus 🪄🌌
+  ## Dawn of the Crab 🪄🌌
   
-  _2025-08-07_
+  _2025-08-08_
   
   ### About The Image ✨: 
   
-  This stunning starfield spans about three full moons (1.5 degrees) across the heroic northern constellation of Perseus. It holds the famous pair of open star clusters, h and Chi Persei. Also cataloged as NGC 869 (right) and NGC 884, both clusters are about 7,000 light-years away and contain stars much younger and hotter than the Sun.  Separated by only a few hundred light-years, the clusters are both 13 million years young based on the ages of their individual stars, evidence that both clusters were likely a product of the same star-forming region. Always a rewarding sight in binoculars or small telescopes, the Double Cluster is even visible to the unaided eye from dark locations.
+  One of the all-time historic skyscapes occured in July 1054, when the Crab Supernova blazed into the dawn sky. Chinese court astrologers first saw the Guest Star on the morning of 4 July 1054 next to the star Tianguan (now cataloged as Zeta Tauri). The supernova peaked in late July 1054 a bit brighter than Venus, and was visible in the daytime for 23 days. The Guest Star was so bright that every culture around the world inevitably discovered the supernova independently, although only nine reports survive, including those from China, Japan, and Constantinople. This iPhone picture is from Signal Hill near Tucson on the morning of 26 July 2025, faithfully re-creates the year 1054 Dawn of the Crab, showing the sky as seen by Hohokam peoples. The planet Venus, as a stand-in for the supernova, is close to the position of what is now the Crab Nebula supernova remnant. Step outside on a summer dawn with bright Venus, and ask yourself "What would you have thought in ancient times when suddenly seeing the Dawn of the Crab?"
   
   
   
-  > _Last Updated: 8/7/2025, 2:25:32 PM (in GMT)_
+  > _Last Updated: 8/8/2025, 2:25:05 PM (in GMT)_
   
