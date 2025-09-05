@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2509/NGC4565_APOD_sRGB.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2509/crtastro_0352.jpg)
   
-  ## NGC 4565: Galaxy on Edge 🪄🌌
+  ## 47 Tucanae: Globular Star Cluster 🪄🌌
   
-  _2025-09-04_
+  _2025-09-05_
   
   ### About The Image ✨: 
   
-  Magnificent spiral galaxy NGC 4565 is viewed edge-on from planet Earth. Also known as the Needle Galaxy for its narrow profile, bright NGC 4565 is a stop on many telescopic tours of the northern sky, in the faint but well-groomed constellation Coma Berenices. This sharp, colorful image reveals the galaxy's boxy, bulging central core cut by obscuring dust lanes that lace NGC 4565's thin galactic plane. NGC 4565 lies around 40 million light-years distant while the spiral galaxy itself spans some 100,000 light-years.  That's about the size of our own Milky Way. Easily spotted with small telescopes, deep sky enthusiasts consider NGC 4565 to be a prominent celestial masterpiece Messier missed.
+  Also known as NGC 104, 47 Tucanae is a jewel of the southern sky. Not a star but a dense cluster of stars, it roams the halo of our Milky Way Galaxy along with some 200 other globular star clusters. The second brightest globular cluster (after Omega Centauri) as seen from planet Earth, 47 Tuc lies about 13,000 light-years away. It can be spotted with the naked eye close on the sky to the Small Magellanic Cloud in the constellation of the Toucan. The dense cluster is made up of hundreds of thousands of stars in a volume only about 120 light-years across. Red giant stars on the outskirts of the cluster are easy to pick out as yellowish stars in this sharp telescopic portrait. Tightly packed globular star cluster 47 Tuc is also home to a star with the closest known orbit around a black hole.
   
   
   
-  > _Last Updated: 9/4/2025, 2:17:11 PM (in GMT)_
+  > _Last Updated: 9/5/2025, 2:16:05 PM (in GMT)_
   
