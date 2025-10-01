@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_3549.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg)
   
-  ## Comet Lemmon Brightens 🪄🌌
+  ## NGC 6960: The Witch's Broom Nebula 🪄🌌
   
-  _2025-09-30_
+  _2025-10-01_
   
   ### About The Image ✨: 
   
-  Comet Lemmon is brightening and moving into morning northern skies. Besides Comet SWAN25B and Comet ATLAS, Comet C/2025 A6 (Lemmon) is now the third comet currently visible with binoculars and on long camera exposures.  Comet Lemmon was discovered early this year and is still headed into the inner Solar System. The comet will round the Sun on November 8, but first it will pass its nearest to the Earth -- at about half the Earth-Sun distance -- on October 21.  Although the brightnesses of comets are notoriously hard to predict, optimistic estimates have Comet Lemmon then becoming visible to the unaided eye. The comet should be best seen in predawn skies until mid-October, when it also becomes visible in evening skies.  The featured image showing the comet's split and rapidly changing ion tail was taken in Texas, USA late last week.    Growing Gallery: Comet Lemmon in 2025
+  Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.
   
   
   
-  > _Last Updated: 9/30/2025, 2:19:23 PM (in GMT)_
+  > _Last Updated: 10/1/2025, 2:18:44 PM (in GMT)_
   
