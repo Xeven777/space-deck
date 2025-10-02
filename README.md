@@ -3,7 +3,7 @@
 
   ![NASA APOD](https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg)
   
-  ## NGC 6960: The Witch's Broom Nebula 🪄🌌
+  ## Astronomy Picture of the Day 🪄🌌
   
   _2025-10-01_
   
@@ -13,5 +13,5 @@
   
   
   
-  > _Last Updated: 10/1/2025, 2:18:44 PM (in GMT)_
+  > _Last Updated: 10/2/2025, 2:16:32 PM (in GMT)_
   
