@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2512/BlackHoleViz_Schnittman_8192.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod.jpg)
   
-  ## Visualization: Near a Black Hole and Disk 🪄🌌
+  ## Galaxies in the Furnace 🪄🌌
   
-  _2025-12-03_
+  _2025-12-04_
   
   ### About The Image ✨: 
   
-  What would it look like to plunge into a monster black hole?  This image from a supercomputer visualization shows the entire sky as seen from a simulated camera plunging toward a 4-million-solar-mass black hole, similar to the one at the center of our galaxy.  The camera lies about 16 million kilometers from the black hole’s event horizon and is moving inward at 62% the speed of light.  Thanks to gravity’s funhouse effects, the starry band of the Milky Way appears both as a compact loop at the top of this view and as a secondary image stretching across the bottom.  Move the cursor over the image for additional explanations.  Visualizations like this allow astronomers to explore black holes in ways not otherwise possible.
+  An example of violence on a cosmic scale, enormous elliptical galaxy NGC 1316 lies about 75 million light-years away toward Fornax, the southern constellation of the Furnace. Investigating the startling sight, astronomers suspect the giant galaxy of colliding with smaller neighbor NGC 1317 seen just right of the large galaxy's center, producing far flung star streams in loops and shells. Light from their close encounter would have reached Earth some 100 million years ago. In the sharp telescopic image, the central regions of NGC 1316 and NGC 1317 appear separated by over 100,000 light-years. Complex dust lanes visible within also indicate that NGC 1316 is itself the result of a merger of galaxies in the distant past. Found on the outskirts of the Fornax galaxy cluster, NGC 1316 is known as Fornax A. One of the visually brightest of the Fornax cluster galaxies it is one of the strongest and largest celestial radio sources with radio emission extending well beyond this one degree wide field-of-view.
   
   
   
-  > _Last Updated: 12/3/2025, 2:24:11 PM (in GMT)_
+  > _Last Updated: 12/4/2025, 2:22:47 PM (in GMT)_
   
