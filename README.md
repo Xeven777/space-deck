@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2512/KXAnd.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2512/moonshorty_apollo17_1498.jpg)
   
-  ## The Bipolar Jets of KX Andromedae 🪄🌌
+  ## Apollo 17 at Shorty Crater 🪄🌌
   
-  _2025-12-05_
+  _2025-12-06_
   
   ### About The Image ✨: 
   
-  Blasting outward from variable star KX Andromedae, these stunning bipolar jets are 19 light-years long. Recently discovered, they are revealed in unprecedented detail in this deep telescopic image centered on KX And and composed from over 692 hours of combined image data. In fact, KX And is spectroscopically found to be an interacting binary star system consisting of a bright, hot B-type star with a swollen cool giant star as its co-orbiting, close companion. The stellar material from the cool giant star is likely being transferred to the hot B-type star through an accretion disk, with spectacular symmetric jets driven outward perpendicular to the disk itself. The known distance to KX And of 2,500 light-years, angular size of the jets, and estimated inclination of the accretion disk lead to the size estimate for each jet of an astonishing 19 light-years.   Free APOD Lecture in Phoenix: Wednesday, December 10 at 7 pm
+  Fifty three years ago, in December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon exploring the Taurus-Littrow valley, while colleague Ronald Evans orbited overhead. This snapshot from another world was taken by Cernan as he and Schmitt roamed the lunar valley's floor. The image shows Schmitt next to the lunar rover parked at the southeast rim of Shorty Crater.  That location is near the spot where geologist Schmitt discovered orange lunar soil. The Apollo 17 crew returned with 110 kilograms of rock and soil samples, more than was returned from any of the other lunar landing sites. And for now, Cernan and Schmitt are the last to walk on the Moon.
   
   
   
-  > _Last Updated: 12/5/2025, 2:20:56 PM (in GMT)_
+  > _Last Updated: 12/6/2025, 2:17:03 PM (in GMT)_
   
