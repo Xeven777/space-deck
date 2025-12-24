@@ -1,17 +1,17 @@
 
 # NASA's Picture of the Day 🧑‍🚀💫
 
-  ![NASA APOD](https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_3558.jpg)
+  ![NASA APOD](https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg)
   
-  ## Sunset Solstice over Stonehenge 🪄🌌
+  ## Mystery: Little Red Dots in the Early Universe 🪄🌌
   
-  _2025-12-22_
+  _2025-12-24_
   
   ### About The Image ✨: 
   
-  Yesterday the Sun reached its southernmost point in planet Earth's sky.  Called a solstice, many cultures mark yesterday's date as a change of seasons -- from autumn to winter in Earth's Northern Hemisphere and from spring to summer in Earth's Southern Hemisphere.  The featured image was taken just before the longest night of the 2025 northern year at Stonehenge in United Kingdom. There, through stones precisely placed 4,500 years ago, a 4.5 billion year old large glowing orb is seen setting. Even given the precession of the Earth's rotational axis over the millennia, the Sun continues to set over Stonehenge in an astronomically significant way.
+  What are these little red dots (LRDs)? Nobody knows. Discovered only last year, hundreds of LRDs have now been found by the James Webb Space Telescope in the early universe. Although extremely faint, LRDs are now frequently identified in deep observations made for other purposes. A wide-ranging debate is raging about what LRDs may be and what importance they may have.  Possible origin hypotheses include accreting supermassive black holes inside clouds of gas and dust, bursts of star formation in young dust-reddened galaxies, and dark matter powered gas clouds.  The highlighted images show six nearly featureless LRDs listed under the JWST program that found them, and z, a distance indicator called cosmological redshift.  Additionally, searches are underway in our nearby universe to try to find whatever previous LRDs might have become today.
   
   
   
-  > _Last Updated: 12/22/2025, 2:24:20 PM (in GMT)_
+  > _Last Updated: 12/24/2025, 2:23:54 PM (in GMT)_
   
